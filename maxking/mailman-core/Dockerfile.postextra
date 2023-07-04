@@ -1,0 +1,1 @@
+RUN python3 -m pip install mailman-hyperkitty==1.2.0
